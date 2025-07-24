@@ -1,0 +1,6 @@
+print(100 == 90)
+print(100 != 90)
+print(100 > 70)
+print(1000 < 199)
+print(5**3)
+print(50/5)
